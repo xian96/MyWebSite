@@ -1,0 +1,11 @@
+.card img {
+	width: 100%;
+}
+
+#mainNavbar {
+	margin-bottom: 1.0em;
+}
+
+.delete-form{
+	display: inline;
+}
